@@ -63,21 +63,18 @@
   </entry>
   
   <entry>
-    <title>测试</title>
-    <link href="https://thekingshun.github.io/2022/01/03/test/"/>
-    <id>https://thekingshun.github.io/2022/01/03/test/</id>
+    <title>JVM 学习笔记（三）类加载与字节码技术&amp;内存模型</title>
+    <link href="https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E7%B1%BB%E5%8A%A0%E8%BD%BD%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8A%80%E6%9C%AF&amp;%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E7%B1%BB%E5%8A%A0%E8%BD%BD%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8A%80%E6%9C%AF&amp;%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/</id>
     <published>2022-01-02T16:00:00.000Z</published>
-    <updated>2022-01-03T08:07:33.191Z</updated>
+    <updated>2022-01-03T08:07:20.881Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;==测试==&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;ceshi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;JVM-学习笔记（三）类加载与字节码技术-amp-内存模型&quot;&gt;&lt;a href=&quot;#JVM-学习笔记（三）类加载与字节码技术-amp-内存模型&quot; class=&quot;headerlink&quot; title=&quot;JVM</summary>
         
       
     
@@ -86,7 +83,7 @@
     <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
     
     
-    <category term="面经" scheme="https://thekingshun.github.io/tags/%E9%9D%A2%E7%BB%8F/"/>
+    <category term="JVM学习笔记" scheme="https://thekingshun.github.io/tags/JVM%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -116,18 +113,18 @@
   </entry>
   
   <entry>
-    <title>JVM 学习笔记（三）类加载与字节码技术&amp;内存模型</title>
-    <link href="https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E7%B1%BB%E5%8A%A0%E8%BD%BD%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8A%80%E6%9C%AF&amp;%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E7%B1%BB%E5%8A%A0%E8%BD%BD%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8A%80%E6%9C%AF&amp;%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/</id>
+    <title>MyBatis3</title>
+    <link href="https://thekingshun.github.io/2022/01/03/MyBatis3/"/>
+    <id>https://thekingshun.github.io/2022/01/03/MyBatis3/</id>
     <published>2022-01-02T16:00:00.000Z</published>
-    <updated>2022-01-03T08:07:20.881Z</updated>
+    <updated>2022-01-03T08:29:00.870Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;JVM-学习笔记（三）类加载与字节码技术-amp-内存模型&quot;&gt;&lt;a href=&quot;#JVM-学习笔记（三）类加载与字节码技术-amp-内存模型&quot; class=&quot;headerlink&quot; title=&quot;JVM</summary>
+    <summary type="html">&lt;h2 id=&quot;MyBatis3&quot;&gt;&lt;a href=&quot;#MyBatis3&quot; class=&quot;headerlink&quot; title=&quot;MyBatis3&quot;&gt;&lt;/a&gt;MyBatis3&lt;/h2&gt;&lt;h3 id=&quot;MyBatis介绍&quot;&gt;&lt;a href=&quot;#MyBatis介绍&quot;</summary>
         
       
     
@@ -136,7 +133,60 @@
     <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
     
     
-    <category term="JVM学习笔记" scheme="https://thekingshun.github.io/tags/JVM%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="MyBatis3" scheme="https://thekingshun.github.io/tags/MyBatis3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://thekingshun.github.io/2022/01/03/test/"/>
+    <id>https://thekingshun.github.io/2022/01/03/test/</id>
+    <published>2022-01-02T16:00:00.000Z</published>
+    <updated>2022-01-03T08:07:33.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;==测试==&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ceshi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
+    
+    
+    <category term="面经" scheme="https://thekingshun.github.io/tags/%E9%9D%A2%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="https://thekingshun.github.io/2022/01/03/Redis6.2.x%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
+    <id>https://thekingshun.github.io/2022/01/03/Redis6.2.x%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
+    <published>2022-01-02T16:00:00.000Z</published>
+    <updated>2022-01-03T08:29:29.810Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
+    
+    
+    <category term="Redis" scheme="https://thekingshun.github.io/tags/Redis/"/>
     
   </entry>
   
