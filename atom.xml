@@ -88,6 +88,34 @@
   </entry>
   
   <entry>
+    <title>测试</title>
+    <link href="https://thekingshun.github.io/2022/01/03/test/"/>
+    <id>https://thekingshun.github.io/2022/01/03/test/</id>
+    <published>2022-01-02T16:00:00.000Z</published>
+    <updated>2022-01-03T08:07:33.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;==测试==&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ceshi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
+    
+    
+    <category term="面经" scheme="https://thekingshun.github.io/tags/%E9%9D%A2%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JVM 学习笔记（二）垃圾回收</title>
     <link href="https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/"/>
     <id>https://thekingshun.github.io/2022/01/03/JVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</id>
@@ -134,34 +162,6 @@
     
     
     <category term="MyBatis3" scheme="https://thekingshun.github.io/tags/MyBatis3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试</title>
-    <link href="https://thekingshun.github.io/2022/01/03/test/"/>
-    <id>https://thekingshun.github.io/2022/01/03/test/</id>
-    <published>2022-01-02T16:00:00.000Z</published>
-    <updated>2022-01-03T08:07:33.191Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;==测试==&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;ceshi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://thekingshun.github.io/categories/Java/"/>
-    
-    
-    <category term="面经" scheme="https://thekingshun.github.io/tags/%E9%9D%A2%E7%BB%8F/"/>
     
   </entry>
   
